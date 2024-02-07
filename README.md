@@ -1,2 +1,2 @@
-# AimCrab
-A mod similar to AimLab for crabGame
+# Crab Lab
+A mod that provide Exercise to train on CrabGame
